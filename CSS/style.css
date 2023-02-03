@@ -1,0 +1,13 @@
+/* general styles */
+body {
+  background-color: #EAF6F6;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: gray;
+  width: 5%;
+  border-width: 5px;
+}
+h1,h3{color:#66BFBF }
